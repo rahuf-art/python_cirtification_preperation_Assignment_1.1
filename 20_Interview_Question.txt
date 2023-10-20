@@ -1,0 +1,24 @@
+Here are 20 interview questions covering various topics in Python including Data Types, Operators, Conditional Statements, Looping Statements, and Functions:
+
+1. What are the basic data types in Python?
+2. Explain the difference between mutable and immutable data types in Python.
+3. How do you declare and use complex numbers in Python?
+4. What is the `None` data type in Python?
+5. Differentiate between 'is' and '==' in Python.
+6. What are conditional statements in Python, and how are they used?
+7. Describe the difference between 'if,' 'elif,' and 'else' statements.
+8. How can you write a conditional statement with multiple conditions in Python?
+9. Explain the use of the `pass` statement in Python.
+10. What is a ternary operator in Python, and how is it used?
+11. What are the different types of loops available in Python?
+12. How do you create an infinite loop in Python, and how can it be terminated?
+13. Explain the difference between 'break' and 'continue' statements in a loop.
+14. What is the purpose of an 'else' block in a 'for' or 'while' loop?
+15. How can you iterate through a dictionary using loops in Python?
+16. What is a function, and how is it defined in Python?
+17. Describe the difference between parameters and arguments in a function.
+18. How can you return multiple values from a Python function?
+19. What is recursion, and how is it used in Python functions?
+20. Explain lambda functions and their use cases in Python.
+
+
